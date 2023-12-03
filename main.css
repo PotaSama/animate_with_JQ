@@ -1,0 +1,29 @@
+.container {
+    width: 0%;
+    border: 2px solid black;
+    height: 0vh;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    display: none;
+}
+
+.boxes {
+    width: 100%;
+    display: flex;
+}
+
+.box {
+    display: none;
+    width: 32%;
+    height: 80vh;
+    margin: auto;
+}
+
+.box img {
+    height: 400px;
+    width: 100%;
+}
